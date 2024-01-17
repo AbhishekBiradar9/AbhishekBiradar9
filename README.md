@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Biradar
 - 👀 I’m interested in ...Artifical intelligence and Machine Learning
-- 🌱 I’m currently learning ...Java and Py
+- 🌱 I’m currently learning ...Web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abhishekbiradar8088@gmail.com
 
